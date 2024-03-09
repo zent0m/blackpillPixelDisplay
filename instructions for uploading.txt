@@ -1,0 +1,20 @@
+FOR UPLOADING SOMETHING (ANIMATIONS HERE, IMAGES NOT MUCH DIFFERENT) ON THE THING
+
+1. download a gif
+2. open the gif on photoshop
+3. adjust the size of the gif
+4. adjust the colors of the gif
+5. export for web
+6. settings
+7. save as gif
+8. go to ezgif
+9. split
+10. upload gif, download as zip
+11. extract zip to a folder
+12. go to image2cpp, upload image(s)
+13. adjust if necessary, at the bottom, remove prefix and generate code
+14. copy the code and paste it in the sketch
+15. change the name in the display function
+16. put the device in dfu mode
+17. press upload in arduino ide
+18. done

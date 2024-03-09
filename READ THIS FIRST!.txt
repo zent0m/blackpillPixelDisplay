@@ -1,0 +1,23 @@
+Congratulations on your STM32 Pixel Art Display thingy! I hope you have fun with it!
+
+To get started, I will suggest you first watch the Installation Video, and then the Uploading Video.
+
+If you want something a bit rough but quick, you can read the txt files for the instructions.
+The installation instructions txt has an important link that is used in the video, however.
+
+I have some Empty sketches inside the Image and Animation Sketch folders that have the main files that
+run the whole show. I have commented the code a lot so that you have the least difficulty trying to 
+read it.
+
+I also included some example sketches in the Examples folder, so that you can either create your own
+by taking a look at those, or just run them anyway.
+
+IMPORTANT: Keep in mind, OLED screens are inherently susceptible to burn-in, where an image gets
+permanently burned into the screen if it is turned on for too long (and by too long I mean days, weeks, months)
+To prevent that, either only run animations if you plan on keeping the display turned on, or turn off
+the display (unplug it) when not in use.
+Also, from what I've heard, this device has 256KB of Memory. Try to keep the amount of frame data under
+that amount, because I have no idea what happens if we exceed that amount. It will probably not allow
+flashing something larger than that, but just to be safe.
+
+Have fun!

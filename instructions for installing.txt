@@ -1,0 +1,14 @@
+FOR INSTALLING REQUIREMENTS:
+
+1. download arduino ide
+2. open and go to file > preferences and copy https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
+   to Additional Boards Manager URLS
+3. let it do it's thing
+4. go to tools > manage libraries
+5. search adafruit gfx and install
+6. download and install the sh1106 adafruit library
+7. download and install stm32cube programmer
+8. add path to bin to your paths (if installed anywhere that's not the default installation directory)
+9. set settings in arduino ide as in the second video
+7. file > open > provided sketch
+8. edit as desired (next tutorial)
